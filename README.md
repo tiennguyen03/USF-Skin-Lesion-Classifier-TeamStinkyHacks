@@ -110,6 +110,15 @@ npm run ios     # For iOS
   - Input: Multipart form data with image file
   - Output: JSON with prediction results and confidence scores
 
+## Contributors
+
+### Team StinkyHacks
+- **Tien Nguyen** - ML Development & Backend
+- **Thomveebol Phorn** - ML Development & Backend
+- **Andy Bertil** - ML Development & Backend
+- **James Huynh** - ML & Computer Vision
+- **Cem Tutar** - Frontend Development
+
 ## Contributing
 
 1. Fork the repository
